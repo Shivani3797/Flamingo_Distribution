@@ -31,3 +31,10 @@
 ## CHAPTER-7: DISCUSSION……………………………………(Page#42)
 ## CHAPTER -6: CONCLUSION............(Page# 44)
 ## REFERENCES
+
+
+# Technologies Used
+  ## 1) Python
+  ## 2) Arc Gis Pro
+  ## 3) Google Earth Engine
+  ## 4) R Studio
